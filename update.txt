@@ -1,4 +1,7 @@
 원격저장소 가져오기
 
+pull request 하기
 
-origin/dev 테스트
+
+pull test
+
